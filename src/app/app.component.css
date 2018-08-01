@@ -1,0 +1,17 @@
+.container > .header {
+  background-color: #2e78bf;
+  color: #FFF;
+  text-align: center;
+}
+
+.qr-container {
+  margin-top: 5%;
+}
+
+.qr-container > div {
+  padding: 0 25px;
+}
+
+/* agm-map {
+  height: 300px;
+} */
